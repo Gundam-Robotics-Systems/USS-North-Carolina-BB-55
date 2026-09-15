@@ -1,0 +1,19 @@
+ USS North Carolina 
+Ship/NorthCarolina.png
+
+Class and type: North Carolina-class battleship
+Displacement:   37,484 short tons (34,005 t) (standard)
+				44,377 short tons (40,258 t) (loaded)
+Length:			728.8 ft (222.1 m)
+Beam:			108.3 ft (33.0 m)
+Draft:			33.0 ft (10.1 m)
+Propulsion:		4 × General Electric steam turbines
+				four propeller shafts
+Speed:			32 kn 
+Armament:
+9 × 16 in (410 mm)/45 caliber Mark 6 guns
+20 × 5 in (130 mm)/38 caliber dual-purpose guns
+16 × 1.1 in (28 mm)/75 caliber anti-aircraft
+48 × single Oerlikon 20 mm cannons (48×1)
+
+

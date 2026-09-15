@@ -1,0 +1,12 @@
+
+model = {
+	lods = {		
+		{"NorthCarolina.edm", 1000000.000000};
+	};
+
+        collision_shell = "NorthCarolina_Collision.edm";
+
+}
+
+
+
